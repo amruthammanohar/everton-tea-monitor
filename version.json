@@ -1,0 +1,4 @@
+{
+  "version": "2.1.0",
+  "notes": "Dynamic M1-Mn meter setup, ADMIN/USER roles, Shift Timings, per-meter register editor, BLE+WiFi OTA, functional Alert Config, app auto-update."
+}
