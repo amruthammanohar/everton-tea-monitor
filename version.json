@@ -1,0 +1,4 @@
+{
+  "version": "2.3.0",
+  "notes": "Recent Database Records tables (on both Incomer and Production device detail pages) now show every stored parameter per meter — Status, V1N/V2N/V3N, V12/V23/V31, A1/A2/A3, PF, total kWh and Shift kWh — instead of a partial subset. Tables scroll horizontally on phones."
+}
